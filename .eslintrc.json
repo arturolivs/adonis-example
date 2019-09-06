@@ -14,5 +14,10 @@
         "sourceType": "module"
     },
     "rules": {
+        "no-param-reassign": "off",
+        "semi": [
+            2,
+            "never"
+        ]
     }
 }
